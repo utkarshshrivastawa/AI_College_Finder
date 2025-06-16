@@ -12,3 +12,6 @@ To use the Gemini API, an API key from Google Generative AI is required. This pr
 
 # 🚀 Launch Instructions
 Install the required libraries (gradio, google-generativeai), add your Gemini API key, and run the script using Python. A web interface will be launched where users can input their details and receive real-time college recommendations.
+# 🚀🚀 Output 
+![WhatsApp Image 2025-06-08 at 18 15 16_49e3ae8f](https://github.com/user-attachments/assets/f7a430d2-8aab-42de-b4ce-8cca0505c2d9)
+
